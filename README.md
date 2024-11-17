@@ -6,7 +6,7 @@ Weekly submission will be made to indicate the progress if the project
 
 **Team Members**
 
-Bright Wiredu Nuakoh < br / > 
+Bright Wiredu Nuakoh  <br />
 Olivier Kanamugire
 
 Durbar Hore Partha
