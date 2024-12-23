@@ -4,7 +4,7 @@ This project aims to forcast the stick price in a sequencial dataset.
 
 Weekly submission will be made to indicate the progress if the project.
 
--Find the week updates on codes in the Week_Sub_Files Update
+-Find the weekly updates on codes in the Week_Sub_Files Update
 
 
 
@@ -18,9 +18,15 @@ Bright Wiredu Nuakoh  <br />
 Olivier Kanamugire <br />
 Durbar Hore Partha
 
+# Data Description
+![Alt text](i3.png)
+
 **SOME RESULTS**
 
 **Baseline Models**
+
 **RNN Results**
+
 **LSTM Result**
+
 **AUtoformer Result**
