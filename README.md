@@ -25,9 +25,15 @@ Durbar Hore Partha
 The following are some results obtained from the implemented models
 
 **Baseline Models**
+AR Prediction 
+
 ![alt text](<ar model.png>)
 **RNN Results**
 
 **LSTM Result**
 
+![alt text](multivariatepredictions.png)
+
 **AUtoformer Result**
+
+![alt text](<autoformer pred.png>)
