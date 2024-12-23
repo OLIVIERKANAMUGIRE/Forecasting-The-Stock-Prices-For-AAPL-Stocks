@@ -20,7 +20,7 @@ Durbar Hore Partha
 
 # Data Description
 
-Find data here <a href="https://www.marketwatch.com/investing/stock/aapl/downloaddatapartial?startdate=11/20/2024%2000:00:00&enddate=12/20/2024%2023:59:59&daterange=d30&frequency=p1d&csvdownload=true&downloadpartial=false&newdates=false">Click Me</a> 
+Find data here <a href="https://www.marketwatch.com/investing/stock/aapl/downloaddatapartial?startdate=11/20/2024%2000:00:00&enddate=12/20/2024%2023:59:59&daterange=d30&frequency=p1d&csvdownload=true&downloadpartial=false&newdates=false">LINK</a> 
 
 ![Alt text](i3.png)
 
@@ -42,3 +42,5 @@ AR Prediction
 **AUtoformer Result**
 
 <img src="autoformer pred.png" width="500" />
+
+# Kiitos!
