@@ -19,23 +19,26 @@ Olivier Kanamugire <br />
 Durbar Hore Partha
 
 # Data Description
+
+Find data here <a href = "https://www.marketwatch.com/investing/stock/aapl/downloaddatapartial?startdate=11/20/2024%2000:00:00&enddate=12/20/2024%2023:59:59&daterange=d30&frequency=p1d&csvdownload=true&downloadpartial=false&newdates=false">
+
 ![Alt text](i3.png)
 
+Find more details here/.....
 **SOME RESULTS**
 The following are some results obtained from the implemented models
 
 **Baseline Models**
 AR Prediction 
 
-![alt text](<ar model.png>)
+<img src="ar model.png" width="500" />
+
 **RNN Results**
 
 **LSTM Result**
 
-![alt text](multivariatepredictions.png)
+<img src="multivariatepredictions.png" width="500" />
 
 **AUtoformer Result**
 
-![alt text](<autoformer pred.png>)
-
-<img src="multivariatepredictions.png" width="300" />
+<img src="autoformer pred.png" width="500" />
