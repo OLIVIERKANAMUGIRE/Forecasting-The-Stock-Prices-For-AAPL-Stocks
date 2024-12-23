@@ -21,12 +21,14 @@ Find the data here <a href="https://www.marketwatch.com/investing/stock/aapl/dow
 ![Alt text](i3.png)
 
 # Experiment and Results
-Find more details here <a src = "work.pdf"> Read More</a>
+Find more details here <a href = "Report.pdf"> Read More</a>
 
 **SOME RESULTS**
+
 The following are some results obtained from the implemented models
 
 **Baseline Models**
+
 AR Prediction 
 
 <img src="ar model.png" width="500" />
