@@ -37,3 +37,5 @@ AR Prediction
 **AUtoformer Result**
 
 ![alt text](<autoformer pred.png>)
+
+<img src="multivariatepredictions.png" width="300" />
