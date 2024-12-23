@@ -37,7 +37,7 @@ end = time.time()
 print(f"Training time: {end - start} seconds")
 
 
-#LSTM MODEL
+
 #LSTM MODEL
 # Create the LSTM model
 lst_model = Sequential()
