@@ -22,9 +22,10 @@ Durbar Hore Partha
 ![Alt text](i3.png)
 
 **SOME RESULTS**
+The following are some results obtained from the implemented models
 
 **Baseline Models**
-
+![alt text](<ar model.png>)
 **RNN Results**
 
 **LSTM Result**
